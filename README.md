@@ -2,7 +2,7 @@
 
 This repository makes it possible to use [facebook-sdk-for-unity](https://github.com/facebook/facebook-sdk-for-unity) with Unity Package Manager (UPM)
 
-![facebook-sdk-for-unity](https://i.imgur.com/IqIbtxR.png)
+![facebook-sdk-for-unity](https://i.imgur.com/b0UYtNT.png)
 
 ## Installation
 
@@ -11,7 +11,8 @@ This repository makes it possible to use [facebook-sdk-for-unity](https://github
   ```json
   {
     "dependencies": {
-      "io.elhan.facebook-sdk": "https://github.com/oae/unity-package-facebook-sdk.git#0.0.1",
+      "io.elhan.play-services-resolver": "https://github.com/oae/unity-package-play-services-resolver.git#0.1.0",
+      "io.elhan.facebook-sdk": "https://github.com/oae/unity-package-facebook-sdk.git#0.1.0",
     }
   }
   ```
