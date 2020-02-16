@@ -8,5 +8,8 @@
     "name": "Alperen Elhan",
     "email": "alperen@elhan.io",
     "url": "https://elhan.io"
+  },
+  "dependencies": {
+    "io.elhan.play-services-resolver": "0.1.0"
   }
 }
